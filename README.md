@@ -6,7 +6,7 @@ This repository contains supplementary measurement data for “Characterizing th
 
 This code was developed and tested with Python 3.13.3, but some other versions of Python 3 should work without issue. All utilized modules are included in the Python Standard Library.
 
-# Directory Walkthrough
+# Directory Walkthrough 
 
 ```
 ├── data
