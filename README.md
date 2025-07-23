@@ -1,7 +1,3 @@
-# Characterizing the Implementation of Censorship Policies in Chinese LLM Services
-
-This repository contains supplementary measurement data for “Characterizing the Implementation of Censorship Policies in Chinese LLM Services”. The paper will be made available at this [link](https://dx.doi.org/10.14722/ndss.2026.231761).
-
 # Requirements 
 
 This code was developed and tested with Python 3.13.3, but some other versions of Python 3 should work without issue. All utilized modules are included in the Python Standard Library.
